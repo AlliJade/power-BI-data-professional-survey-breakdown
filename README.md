@@ -2,6 +2,10 @@
 
 A Power BI portfolio project exploring the roles, programming preferences, demographics, and job satisfaction of 630 survey respondents.
 
+## Dashboard Demonstration
+
+https://github.com/user-attachments/assets/fd34a715-8e8f-4139-8efd-7ac0be0f38f4
+
 ## Dashboard preview
 
 ![Data Professional Survey Dashboard](dashboard.png)
